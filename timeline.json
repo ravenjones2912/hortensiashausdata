@@ -10,7 +10,15 @@
     },
     "sacrifice_2": {
       "age": "19",
-      "cloistered3": "testinggggggg new token",
+      "cloistered3": "testinggggggg local ",
+      "choosening": "",
+      "howItEnded": "",
+      "legacy": "",
+      "guardianFate": ""
+    },
+    "sacrifice_3": {
+      "age": "21",
+      "cloistered3": "Another test bbg",
       "choosening": "",
       "howItEnded": "",
       "legacy": "",

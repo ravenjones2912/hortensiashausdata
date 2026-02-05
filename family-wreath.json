@@ -1,0 +1,192 @@
+{
+  "people": [
+    {
+      "id": "p1769979494011",
+      "name": "Begonia",
+      "portrait": null,
+      "lifestage": "Adult",
+      "tags": [],
+      "traits": [],
+      "bio": "",
+      "events": []
+    },
+    {
+      "id": "p1769979527126",
+      "name": "Vlad",
+      "portrait": null,
+      "lifestage": "Adult",
+      "tags": [],
+      "traits": [],
+      "bio": "",
+      "events": []
+    },
+    {
+      "id": "p1769979544709",
+      "name": "Zinnia",
+      "portrait": null,
+      "lifestage": "Adult",
+      "tags": [],
+      "traits": [],
+      "bio": "",
+      "events": []
+    },
+    {
+      "id": "p1769979567572",
+      "name": "Clemensia",
+      "portrait": null,
+      "lifestage": "Adult",
+      "tags": [],
+      "traits": [],
+      "bio": "",
+      "events": []
+    },
+    {
+      "id": "p1769979586586",
+      "name": "Thaddeus",
+      "portrait": null,
+      "lifestage": "Adult",
+      "tags": [],
+      "traits": [],
+      "bio": "",
+      "events": []
+    },
+    {
+      "id": "p1769979611709",
+      "name": "Hortensia Valencia Straud",
+      "portrait": null,
+      "lifestage": "Adult",
+      "tags": [],
+      "traits": [],
+      "bio": "",
+      "events": []
+    }
+  ],
+  "relationships": [
+    {
+      "type": "partner",
+      "from": "p1769979527126",
+      "to": "p1769979494011",
+      "status": "dating"
+    },
+    {
+      "type": "partner",
+      "from": "p1769979544709",
+      "to": "p1769979527126",
+      "status": "dating"
+    },
+    {
+      "type": "partner",
+      "from": "p1769979567572",
+      "to": "p1769979527126",
+      "status": "dating"
+    },
+    {
+      "type": "parent",
+      "from": "p1769979494011",
+      "to": "p1769979586586",
+      "kind": "biological"
+    },
+    {
+      "type": "parent",
+      "from": "p1769979527126",
+      "to": "p1769979586586",
+      "kind": "biological"
+    },
+    {
+      "type": "parent",
+      "from": "p1769979527126",
+      "to": "p1769979611709",
+      "kind": "biological"
+    },
+    {
+      "type": "parent",
+      "from": "p1769979567572",
+      "to": "p1769979611709",
+      "kind": "biological"
+    }
+  ],
+  "layout": {
+    "positions": {
+      "p1769979494011": {
+        "x": 473,
+        "y": 114
+      },
+      "p1769979527126": {
+        "x": 206,
+        "y": 114
+      },
+      "p1769979544709": {
+        "x": 721,
+        "y": 114
+      },
+      "p1769979567572": {
+        "x": 970,
+        "y": 117
+      },
+      "p1769979586586": {
+        "x": 361,
+        "y": 345
+      },
+      "p1769979611709": {
+        "x": 970,
+        "y": 348
+      }
+    }
+  },
+  "customLines": [
+    {
+      "id": "cl-1770329470672-7246",
+      "fromId": "p1769979494011",
+      "toId": "p1769979527126",
+      "fromAnchor": {
+        "u": 0,
+        "v": 0.5878378378378378
+      },
+      "toAnchor": {
+        "u": 1,
+        "v": 0.5878378378378378
+      },
+      "style": {
+        "color": "#ff1493",
+        "width": 3,
+        "dash": []
+      }
+    },
+    {
+      "id": "cl-1770329474261-2021",
+      "fromId": "p1769979494011",
+      "toId": "p1769979544709",
+      "fromAnchor": {
+        "u": 1,
+        "v": 0.5945945945945946
+      },
+      "toAnchor": {
+        "u": 0,
+        "v": 0.5945945945945946
+      },
+      "style": {
+        "color": "#ff1493",
+        "width": 3,
+        "dash": []
+      }
+    },
+    {
+      "id": "cl-1770329481341-6607",
+      "fromId": "p1769979544709",
+      "toId": "p1769979567572",
+      "fromAnchor": {
+        "u": 1,
+        "v": 0.5945945945945946
+      },
+      "toAnchor": {
+        "u": 0,
+        "v": 0.5743243243243243
+      },
+      "style": {
+        "color": "#ff1493",
+        "width": 3,
+        "dash": []
+      }
+    }
+  ]
+}

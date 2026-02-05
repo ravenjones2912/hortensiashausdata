@@ -1,24 +1,14 @@
 {
   "entries": [
     {
-      "day": "DAY 26",
+      "day": "DAY 05",
+      "date": "Feb 5th 2026",
+      "content": "LATEST UPDATE READ ALL ABOUT IT."
+    },
+    {
+      "day": "DAY 313",
       "date": "29.01.2026",
-      "content": "TESTING NEW TOKEN"
-    },
-    {
-      "day": "DAY 1",
-      "date": "29.01.2026",
-      "content": "Test update"
-    },
-    {
-      "day": "DAY 312",
-      "date": "January 29, 2026",
-      "content": "The drama is UNREAL today. Hortensia decided she's had ENOUGH of everyone's nonsense and locked herself in the bathroom for 4 hours. Meanwhile, Thaddeus tried to cook a grilled cheese and somehow set the kitchen on fire??? The ghosts are absolutely living for this chaos (pun intended). Vlad would be so disappointed. Or maybe proud? It's hard to tell with him tbh. 💀✨"
-    },
-    {
-      "day": "DAY 311",
-      "date": "January 28, 2026",
-      "content": "Someone broke the shower AGAIN. I'm convinced it's cursed at this point. Clemensia claims she saw a plasma fruit floating through the walls, but we all know she's just trying to stir up more drama. Living (and unliving?) with vampires is exhausting but at least it's never boring! 🦇💕"
+      "content": "Testing new system"
     },
     {
       "day": "22",
@@ -26,9 +16,24 @@
       "content": "Testnote2"
     },
     {
-      "day": "DAY 313",
+      "day": "DAY 311",
+      "date": "January 28, 2026",
+      "content": "Someone broke the shower AGAIN. I'm convinced it's cursed at this point. Clemensia claims she saw a plasma fruit floating through the walls, but we all know she's just trying to stir up more drama. Living (and unliving?) with vampires is exhausting but at least it's never boring! 🦇💕"
+    },
+    {
+      "day": "DAY 312",
+      "date": "January 29, 2026",
+      "content": "The drama is UNREAL today. Hortensia decided she's had ENOUGH of everyone's nonsense and locked herself in the bathroom for 4 hours. Meanwhile, Thaddeus tried to cook a grilled cheese and somehow set the kitchen on fire??? The ghosts are absolutely living for this chaos (pun intended). Vlad would be so disappointed. Or maybe proud? It's hard to tell with him tbh. 💀✨"
+    },
+    {
+      "day": "DAY 1",
       "date": "29.01.2026",
-      "content": "Testing new system"
+      "content": "Test update"
+    },
+    {
+      "day": "DAY 26",
+      "date": "29.01.2026",
+      "content": "TESTING NEW TOKEN"
     }
   ]
 }
